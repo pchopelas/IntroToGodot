@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bi2blh758vdrf"]
+
+[ext_resource type="Texture2D" uid="uid://cyc08wm2nlcm0" path="res://Sprites/Coin.png" id="1_yn7pp"]
+
+[node name="Coin" type="Sprite2D"]
+texture = ExtResource("1_yn7pp")
